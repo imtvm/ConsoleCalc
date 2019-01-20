@@ -2,7 +2,7 @@
 
 namespace calc
 {
-    class Program
+    class Calc
     {
         static void Main(string[] args)
         {
